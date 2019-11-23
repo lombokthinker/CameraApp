@@ -54,6 +54,7 @@ class MainActivity : AppCompatActivity() {
         foto.setOnClickListener{
             takePicture("foto1.jpg")
         }
+
     }
 
     fun takePicture(namafile: String){
