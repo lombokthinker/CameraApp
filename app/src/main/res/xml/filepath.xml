@@ -2,5 +2,5 @@
 <paths>
     <external-path
         name="foto"
-        path="Android/data/id.co.plnntb.cameraapp/foto"/>
+        path="Android/data/id.co.plnntb.cameraapp/files"/>
 </paths>
